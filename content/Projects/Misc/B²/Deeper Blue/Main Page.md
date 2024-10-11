@@ -3,6 +3,7 @@ title: Deeper Blue Main Page
 tags:
   - Incomplete
   - B²
+  - Main-Page
 ---
 Deeper Blue is part of a larger project referred to as [[Projects/Misc/B²/Main Page|B².]] It is also a revival of an old project that was known as "Deep Blue." 
 

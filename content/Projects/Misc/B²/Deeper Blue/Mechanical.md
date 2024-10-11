@@ -3,6 +3,8 @@ title: Mechanical Page
 tags:
   - B²
   - Incomplete
+  - Fusion-360
+  - Mechanical
 authors:
   - Adrian Z
 ---
