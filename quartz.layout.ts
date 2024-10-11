@@ -1,3 +1,4 @@
+// biome-ignore lint/style/useImportType: <explanation>
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
@@ -7,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/BengalBots-LSU",
+      "Discord Community": "https://discord.com/invite/f9rmbGcU4y",
     },
   }),
 }
