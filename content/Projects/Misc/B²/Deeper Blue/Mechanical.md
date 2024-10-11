@@ -8,4 +8,6 @@ tags:
 
 [Here are all the fusion files!](https://mylsu1602.autodesk360.com/g/projects/20240917805728881/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28ua1ZBUHBtUU1URjJvTktVXzNSM0ZuQQ)
 
-The bot is built around a 3d printed chassis 
+The bot is built around a 3d printed chassis (165mm x 165mm). For V1, we opted to use PLA. After some hours in the Louisiana heat, we've decided that using PETG is wiser going forward.
+
+For the wheels, V1 used 
