@@ -6,7 +6,7 @@ tags:
 ---
 Deeper Blue is part of a larger project referred to as [[Projects/Misc/B²/Main Page|B².]] It is also a revival of an old project that was known as "Deep Blue." 
 
-Designed as a ~3 lb battlebot, it is one of the designs created B². Internally the electronics and mechanical assembly & manufacturing is rather straightforward.
+Designed as a ~3 lb sumo battlebot, it is one of the designs created for B². Internally the electronics and mechanical assembly & manufacturing is rather straightforward.
 
 ## Mechanical
 
@@ -16,4 +16,12 @@ The entire Fusion360 files [can be accessed here](https://mylsu1602.autodesk360.
 
 ## Electrical
 
+The [L298N Motor Driver](https://www.handsontec.com/dataspecs/L298N%20Motor%20Driver.pdf) is used to control two [FingerTech Silver Spark](https://www.fingertechrobotics.com/proddetail.php?prod=ft-Sspark16) motors that drive the wheels.
+
+An ESP32 is used as the microcontroller that takes input & send data to the motor driver.
+
+A DualShock 4 (ps4 controller) is paired via Bluetooth to the ESP32
+
 ## Code
+
+Code for Deeper Blue can be found [at its repository](https://github.com/BengalBots-LSU/Deeper-Blue)
