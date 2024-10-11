@@ -16,7 +16,7 @@ In the `platform-io` branch, all the files required for a PlatformIO project are
 
 #### Imports
 ---
-This project required ==1== external library.
+This project required ==1== external library. \n
 You'll want to download and import the [`Ps4 Controller Host Library`](https://github.com/pablomarquez76/PS4_Controller_Host) . You may be able to go ahead and simple do
 
 ```cpp
