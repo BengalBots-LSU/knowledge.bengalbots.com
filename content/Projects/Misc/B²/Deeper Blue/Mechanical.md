@@ -1,5 +1,5 @@
 ---
-title: B² Mechanical Page
+title: Mechanical Page
 tags:
   - B²
   - Incomplete
