@@ -11,4 +11,8 @@ The repository is divided into two branches. One of them is just a `.ino` file t
 
 #### Imports
 
-The key import is the
+You'll want to download and import the [`Ps4 Controller Host Library`](https://github.com/pablomarquez76/PS4_Controller_Host) . You may be able to go ahead and simple do
+
+```cpp
+#include <PS4Controller.h>
+```
